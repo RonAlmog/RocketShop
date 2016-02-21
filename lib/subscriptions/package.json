@@ -9,6 +9,7 @@
   "author": "Ron Almog",
   "license": "ISC",
   "dependencies": {
+    "moment": "^2.11.2",
     "underscore": "^1.8.3"
   }
 }
